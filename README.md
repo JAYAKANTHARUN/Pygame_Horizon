@@ -14,7 +14,10 @@ Overall, this Ping Pong game is an exciting and engaging project that showcases 
 3. Abhiram Krishna [https://github.com/Abhiramks2003]
 ## Link to product walkthrough
 
-https://user-images.githubusercontent.com/94242227/229305822-68c8affc-e0ba-479b-a030-c9381cff8088.mp4
+
+https://user-images.githubusercontent.com/97159197/229306037-cbaec261-8225-481f-a00c-b82d82de312e.mp4
+
+
 
 ## How it Works ?
 1. The game starts with a welcome screen that prompts the user to choose the Game mode(vs CPU or vs player).
@@ -30,17 +33,18 @@ https://user-images.githubusercontent.com/94242227/229305822-68c8affc-e0ba-479b-
 6. The game continues until one of the players reaches a predetermined score.
 
 7. At the end of the game, the winner is announced, and the players can choose to play again or exit the game.
-2. Embed video of project demo
+
 ## Libraries used
-tkinter
-PIL
-pygame
+- tkinter
+- PIL==9.4.0
+- pygame==2.1.2
 
 ## How to configure
 Instructions for setting up project
 
-1.Clone this repistory into your system.
-
+    git clone https://github.com/irfanrasheedkc/Pygame_Horizon
+    cd Pygame_Horizon
+    pip install requirements.txt
 
 ## How to Run
 Instructions for running
@@ -52,4 +56,3 @@ Instructions for running
 3.Then click on 'START GAME' to start the game.
 
 4.Click on 'QUIT GAME' to exit.
-
