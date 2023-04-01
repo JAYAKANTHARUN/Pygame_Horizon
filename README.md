@@ -13,7 +13,9 @@ Overall, this Ping Pong game is an exciting and engaging project that showcases 
 2. Jayakanth Arun [https://github.com/JAYAKANTHARUN]
 3. Abhiram Krishna [https://github.com/Abhiramks2003]
 ## Link to product walkthrough
-[link to video]
+
+https://user-images.githubusercontent.com/94242227/229305822-68c8affc-e0ba-479b-a030-c9381cff8088.mp4
+
 ## How it Works ?
 1. The game starts with a welcome screen that prompts the user to choose the Game mode(vs CPU or vs player).
 
